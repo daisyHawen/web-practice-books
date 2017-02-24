@@ -2,7 +2,17 @@
 
 当一个资源请求一个其它域名的资源时会发起一个跨域HTTP请求\(cross-origin HTTP request\)。
 
-比如说，域名A\(http://domaina.example\)的某 Web 应用通过&lt;img&gt; 标签引入了域名B\(http://domainb.foo\)的某图片资源\(http://domainb.foo/image.jpg\)，域名A的 Web 应用就会导致浏览器发起一个跨域 HTTP 请求。
+比如说，域名A\([http://domaina.example\\)的某](http://domaina.example\)的某) Web 应用通过&lt;img&gt; 标签引入了域名B\([http://domainb.foo\\)的某图片资源\\(http://domainb.foo/image.jpg\\)，域名A的](http://domainb.foo\)的某图片资源\(http://domainb.foo/image.jpg\)，域名A的) Web 应用就会导致浏览器发起一个跨域 HTTP 请求。
 
 在当今的 Web 开发中，使用跨域 HTTP 请求加载各类资源（包括CSS、图片、JavaScript 脚本以及其它类资源），已经成为了一种普遍且流行的方式。
+
+如果没有做任何限制，在本地通过ajax访问一个跨域源，查看某些浏览器（chrome、firefox）的控制台，就会发现报错。
+
+就会报这种错误
+
+XMLHttpRequest cannot load
+
+[http://192.168.0.25:8080/JsonAccept/accept](http://192.168.0.25:8080/JsonAccept/accept)
+
+. Response to preflight request doesn’t pass access control check: No ‘Access-Control-Allow-Origin’ header is present on the requested resource. Origin ‘null’ is therefore not allowed access
 
