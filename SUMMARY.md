@@ -2,9 +2,11 @@
 
 * [Introduction](README.md)
 * [HTTP部分](chapter1.md)
-  * [POST和GET的区别](chapter1/postget.md)
-  * [HTTP和HTTPS的区别](chapter1/httphttps.md)
-  * [跨域解决方案CORS](chapter1/cors.md)
+  * [1.POST和GET的区别](chapter1/postget.md)
+  * [2.HTTP和HTTPS的区别](chapter1/httphttps.md)
   * [3.什么是跨域](chapter1/3..md)
+  * [4.什么时候出现跨域](chapter1/4..md)
+  * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
+  * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [HTML/CSS部分](htmlcss.md)
 

@@ -1,22 +1,3 @@
-# 
-
-## 什么时候会出现跨域 {#什么时候会出现跨域}
-
-| URL（A） | URL（B） | 说明 | 是否允许跨域 |
-| :--- | :--- | :--- | :--- |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://www.a.com/b.js](http://www.a.com/b.js) | 同一域名下 | 是 |
-| [http://www.a.com/lab/a.js](http://www.a.com/lab/a.js) | htttp://www.a.com/scripyt/b.js | 同一域名下，不同文件夹 | 是 |
-| [http://www.a.com:8000/a.js](http://www.a.com:8000/a.js) | [http://www.a.com/b.js](http://www.a.com/b.js) | 同一域名下，不同端口 | 否 |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | https//www.b.com/b.js | 同一域名下，不同协议 | 否 |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://192.89.90.112/b.js](http://192.89.90.112/b.js) | 域名和端口IP对应 | 否 |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://script.a.com/b.js](http://script.a.com/b.js) | 主域相同，子域不同 | 否 |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://a.com/b.js](http://a.com/b.js) | 同一域名，不同二级域名 | 否（cookie也不允许访问） |
-| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://www.b.com/b.js](http://www.b.com/b.js) | 不同域名 | 否 |
-
-# 跨域解决方案
-
-## 
-
 ## 一、有src的标签
 
 说明：所有具有`src`属性的HTML标签都是可以跨域的，包括`<img>`,`<script>。`
@@ -68,9 +49,7 @@ $.ajax({
   2、如果出现错误，不会像http请求那样有状态码；
   3、只能使用get请求；
 
-# 三、跨域资源共享CORS
+# 
 
-方法：服务器设置`Access-Control-Allow-Origin`HTTP响应头之后，浏览器将会允许跨域请求
 
-限制：浏览器需要支持HTML5，**可以支持POST，PUT等方法**
 
