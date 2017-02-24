@@ -1,3 +1,4 @@
-# My Awesome Book
+# Web前端修炼手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+用于自己搜集的Web前端知识
+
