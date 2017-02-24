@@ -12,29 +12,12 @@
 
 例如`<img>`在更改`src`属性时就会发送请求，而`script`,`iframe`,`link[rel=stylesheet]`只有在添加到DOM树之后才会发送HTTP请求：
 
-```
-var
- img = 
-new
- Image();
-img.src = 
-'http://some/picture'
-;        
-// 发送HTTP请求
-var
- ifr = $(
-'
-<
-iframe
->
-'
-, {src: 
-'http://b.a.com/bar'
-});
-$(
-'body'
-).append(ifr);                  
-// 发送HTTP请求
+```js
+var img = new Image();
+img.src = 'http://some/picture';        // 发送HTTP请求
+
+var ifr = $('<iframe>', {src: 'http://b.a.com/bar'});
+$('body').append(ifr);                  // 发送HTTP请求
 ```
 
 ## 二、JSONP {#二、jsonp}
@@ -43,32 +26,16 @@ jsonp是JSON with padding的简写，看起来与json差不多，但是包含在
 
 如果使用jquery，可以在type为get的时候dataType设为jsonp,就可以了。例如：
 
-```
+```js
 $.ajax({
-        url: 
-'http://www.qdaily.com/get_user_and_radar.json?winWidth=1280
-&
-winHeight=800'
-,
-        type: 
-'get'
-,
-        dataType: 
-'jsonp'
-,
+        url: 'http://www.qdaily.com/get_user_and_radar.json?winWidth=1280&winHeight=800',
+        type: 'get',
+        dataType: 'jsonp',
         data: {},
     })
-    .done(
-function
-(
-data
-) 
-{
-        
-console
-.log(data.status);
+    .done(function(data) {
+        console.log(data.status);
     })
-
 ```
 
 `$.getJSON`与`$.get`的区别是前者会把`responseText`转换为JSON，而且当URL具有`callback`参数时， jQuery将会把它解释为一个JSONP请求，创建一个`<script>`标签来完成该请求。+
@@ -76,7 +43,10 @@ console
 【总结下jsonp】:
 
 * 优点： 简单，函数回调在本地处理；
-* 缺点： 1、安全性（存在注入漏洞，如CSRF,XSS）； 2、如果出现错误，不会像http请求那样有状态码； 3、只能使用get请求；
+* 缺点： 
+
+1. 安全性（存在注入漏洞，如CSRF,XSS）； 
+2. 如果出现错误，不会像http请求那样有状态码； 3、只能使用get请求；
 
 
 
