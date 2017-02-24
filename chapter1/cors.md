@@ -56,5 +56,11 @@ $.ajax({
 
 ## 二、有src的标签
 
-所有具有`src`属性的HTML标签都是可以跨域的，包括`<img>`,`<script>。`
+说明：所有具有`src`属性的HTML标签都是可以跨域的，包括`<img>`,`<script>。`
+
+限制：需要创建一个DOM对象，只能用于GET方法。
+
+在`document.body`中`append`一个具有`src`属性的HTML标签，`src`属性值指向的URL会以GET方法被访问，该访问是可以跨域的。
+
+其实样式表的&lt;link&gt;标签也是可以跨域的，只要是有src或者href的HTML标签都有跨域的能力。
 
