@@ -80,5 +80,9 @@ $.ajax({
   2、如果出现错误，不会像http请求那样有状态码；
   3、只能使用get请求；
 
+# 三、跨域资源共享CORS
 
+方法：服务器设置`Access-Control-Allow-Origin`HTTP响应头之后，浏览器将会允许跨域请求
+
+限制：浏览器需要支持HTML5，**可以支持POST，PUT等方法**
 
