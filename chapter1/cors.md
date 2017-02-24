@@ -69,6 +69,8 @@ $.ajax({
     })
 ```
 
+`$.getJSON`与`$.get`的区别是前者会把`responseText`转换为JSON，而且当URL具有`callback`参数时， jQuery将会把它解释为一个JSONP请求，创建一个`<script>`标签来完成该请求。
+
 【总结下jsonp】:
 
 * 优点：
