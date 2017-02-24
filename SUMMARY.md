@@ -7,6 +7,7 @@
 ## HTML部分
 
 * [1.Doctype和浏览器渲染模式](html/doctype.md)
+* [2.HTML5新增的元素](html/2.html5yuan.md)
 
 ## CSS部分
 
