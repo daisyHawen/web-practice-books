@@ -27,9 +27,34 @@
 
 # 跨域解决方案
 
-## 
-
 ## 一、JSONP
+
+jsonp是JSON with padding的简写，看起来与json差不多，但是包含在函数调用中的json，利用动态script元素来使用（具有src属性的如img,iframe,srcipt都不受同源策略的影响）。该协议的一个要点就是允许用户传递一个callback参数给服务端，然后服务端返回数据时会将这个callback参数作为函数名来包裹住JSON数据，这样客户端就可以随意定制自己的函数来自动处理返回数据了。
+
+如果使用jquery，可以在type为get的时候dataType设为jsonp,就可以了。例如：
+
+```js
+$.ajax({
+        url: 'http://www.qdaily.com/get_user_and_radar.json?winWidth=1280&winHeight=800',
+        type: 'get',
+        dataType: 'jsonp',
+        data: {},
+    })
+    .done(function(data) {
+        console.log(data.status);
+    })
+```
+
+【总结下jsonp】:
+
+* 优点：
+  简单，函数回调在本地处理；
+* 缺点：
+  1、安全性（存在注入漏洞，如CSRF,XSS）；
+  2、如果出现错误，不会像http请求那样有状态码；
+  3、只能使用get请求；
+
+## 二、有src的标签
 
 
 
