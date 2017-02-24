@@ -12,22 +12,24 @@
 
 > XMLHttpRequest cannot load [http://192.168.0.25:8080/JsonAccept/accept](http://192.168.0.25:8080/JsonAccept/accept). Response to preflight request doesn’t pass access control check: No ‘Access-Control-Allow-Origin’ header is present on the requested resource. Origin ‘null’ is therefore not allowed access
 
-http://www.a.com/a.js
-
-http://www.a.com/b.js
-
 ## 什么时候会出现跨域 {#什么时候会出现跨域}
 
 | URL（A） | URL（B） | 说明 | 是否允许跨域 |
 | :--- | :--- | :--- | :--- |
-| http://www.a.com/a.js | http://www.a.com/b.js | 同一域名下 | 是 |
-| http://www.a.com/lab/a.js | htttp://www.a.com/scripyt/b.js | 同一域名下，不同文件夹 | 是 |
-| http://www.a.com:8000/a.js | http://www.a.com/b.js | 同一域名下，不同端口 | 否 |
-| http://www.a.com/a.js | https//www.b.com/b.js | 同一域名下，不同协议 | 否 |
-| http://www.a.com/a.js | http://192.89.90.112/b.js | 域名和端口IP对应 | 否 |
-| http://www.a.com/a.js | http://script.a.com/b.js | 主域相同，子域不同 | 否 |
-| http://www.a.com/a.js | http://a.com/b.js | 同一域名，不同二级域名 | 否（cookie也不允许访问） |
-| http://www.a.com/a.js | http://www.b.com/b.js | 不同域名 | 否 |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://www.a.com/b.js](http://www.a.com/b.js) | 同一域名下 | 是 |
+| [http://www.a.com/lab/a.js](http://www.a.com/lab/a.js) | htttp://www.a.com/scripyt/b.js | 同一域名下，不同文件夹 | 是 |
+| [http://www.a.com:8000/a.js](http://www.a.com:8000/a.js) | [http://www.a.com/b.js](http://www.a.com/b.js) | 同一域名下，不同端口 | 否 |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | https//www.b.com/b.js | 同一域名下，不同协议 | 否 |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://192.89.90.112/b.js](http://192.89.90.112/b.js) | 域名和端口IP对应 | 否 |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://script.a.com/b.js](http://script.a.com/b.js) | 主域相同，子域不同 | 否 |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://a.com/b.js](http://a.com/b.js) | 同一域名，不同二级域名 | 否（cookie也不允许访问） |
+| [http://www.a.com/a.js](http://www.a.com/a.js) | [http://www.b.com/b.js](http://www.b.com/b.js) | 不同域名 | 否 |
+
+# 跨域解决方案
+
+## 
+
+## 一、JSONP
 
 
 
