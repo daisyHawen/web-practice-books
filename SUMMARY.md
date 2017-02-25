@@ -9,6 +9,7 @@
 * [1.Doctype和浏览器渲染模式](html/doctype.md)
 * [3.HTML5](html/3.html5.md)
   * [3.1.HTML5—— 新增的元素](html/3.html5/3.1.html5-yuan.md)
+  * [3.2.HTML5——离线缓存](html/3.html5/3.2.html5.md)
 * [3.1.HTML5新增的元素](html/2.html5yuan.md)
 * [3.1 HTML5之离线缓存](html/3.1-html5.md)
 
