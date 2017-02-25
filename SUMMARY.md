@@ -17,7 +17,7 @@
 * 1.盒模型
 * 2.字体
 * 3.布局之flexbox
-* 4.事件中的ClientX，offset，pageX，screenX
+* [4.事件中的ClientX，offset，pageX，screenX](css/4.clientxoffsetpagexscreenx.md)
 * 5.雪碧图
 
 ## JS部分
