@@ -15,6 +15,7 @@
 * 2.字体
 * 3.布局之flexbox
 * 4.事件中的ClientX，offset，pageX，screenX
+* 5.雪碧图
 
 ## JS部分
 
