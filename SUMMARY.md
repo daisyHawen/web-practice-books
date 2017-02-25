@@ -7,9 +7,10 @@
 ## HTML部分
 
 * [1.Doctype和浏览器渲染模式](html/doctype.md)
-* [3.HTML5](html/3.html5.md)
+* [2.HTML5](html/3.html5.md)
   * [3.1.HTML5—— 新增的元素](html/3.html5/3.1.html5-yuan.md)
   * [3.2.HTML5——离线缓存](html/3.html5/3.2.html5.md)
+  * [3.3.  session Storage、local Storage和IndexedDB的区别](html/3.html5/3.3.-session-storagelocal-storageindexeddb.md)
 
 ## CSS部分
 
