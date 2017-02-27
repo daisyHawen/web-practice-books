@@ -11,7 +11,11 @@
   * [3.1.HTML5—— 新增的元素](html/3.html5/3.1.html5-yuan.md)
   * [3.2.HTML5——离线应用程序](html/3.html5/3.2.html5.md)
   * [3.3.  session Storage、local Storage和IndexedDB的区别](html/3.html5/3.3.-session-storagelocal-storageindexeddb.md)
+  * 3.4 HTML5——拖放
+  * 3.5 HTML5——Canvas
 * [3.语义化](html/3..md)
+* 4.常用meta整理
+* [5.view-port（移动端开发）](html/view-port.md)
 
 ## CSS部分
 
