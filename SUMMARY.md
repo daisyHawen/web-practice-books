@@ -15,7 +15,8 @@
   * 3.4 HTML5——拖放
   * 3.5 HTML5——Canvas
 * [4.语义化](html/3..md)
-* [5.view-port（移动端开发）](html/view-port.md)
+* [5.view-port移动端开发（一）](html/view-port.md)
+  * [6.view-port移动端开发（二）](html/view-port/6.view-port.md)
 
 ## CSS部分
 
