@@ -11,6 +11,7 @@
   * [3.1.HTML5—— 新增的元素](html/3.html5/3.1.html5-yuan.md)
   * [3.2.HTML5——离线应用程序](html/3.html5/3.2.html5.md)
   * [3.3.  session Storage、local Storage和IndexedDB的区别](html/3.html5/3.3.-session-storagelocal-storageindexeddb.md)
+* [3.语义化](html/3..md)
 
 ## CSS部分
 
@@ -22,11 +23,29 @@
 
 ## JS部分
 
+* 基本数据类型
+* 基本语法
+* 闭包
+* 原型与作用域
+* this
+* ajax
+* js模块化编程
+
 ## 前端框架
 
 * Jquery
 * Vue.js
 * React.js
+
+## 设计模式
+
+## 构建工具
+
+* webpack
+* browserify
+* gulp
+* grunt
+* yeoman
 
 ## HTTP部分
 
@@ -37,4 +56,16 @@
 * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
 * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [7.简单请求和复杂请求](chapter1/7..md)
+
+## NodeJS
+
+* 1.同步与异步
+* 文件操作fs
+* 网络模块http
+
+## 移动端的开发
+
+* zepto.js
+* React Native
+* weex
 
