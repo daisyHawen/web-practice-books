@@ -20,6 +20,7 @@
 * [3.布局之flexbox](css/3.flexbox.md)
 * [4.事件中的ClientX，offset，pageX，screenX](css/4.clientxoffsetpagexscreenx.md)
 * 5.雪碧图
+* 6.sass
 
 ## JS部分
 
