@@ -8,7 +8,11 @@
 
 | iphone | ipad | android Samsung | android HTC | Chrome | Opera Presto | BlackBerrey | IE |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |
+| 980 | 980 | 980 | 980 | 980 | 980 | 1024 | 1024 |
+
+## **二、css中的1px并不等于设备的1px**
+
+
 
 
 
