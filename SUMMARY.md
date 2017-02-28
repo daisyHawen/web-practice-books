@@ -37,6 +37,7 @@
   * [1.3 类型转换](js/1.3.md)
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
+  * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
 * ajax
 * js模块化编程
 * this
