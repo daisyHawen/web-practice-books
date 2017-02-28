@@ -44,6 +44,7 @@
 * 闭包
 * 原型与作用域
 * 基本语法
+* [3. ’use strict‘](js/'use-strict'.md)
 
 ## 前端框架
 
