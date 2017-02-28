@@ -33,6 +33,8 @@
 
 * 1.基础知识
   * [1.1 基本数据类型](js/1.1.md)
+  * [1.2 Null、Undefined、NAN的区别](js/1.2-nullundefinednan.md)
+  * 1.3 强制类型转换
 * 闭包
 * 基本语法
 * 原型与作用域
