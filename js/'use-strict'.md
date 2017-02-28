@@ -9,12 +9,8 @@
 4. ```js
    var hasStrictMode=(function(){"use strict"; return this===undefined()})
    ```
-5. 同样
+5. 同样，在严格模式中，当通过call\(\)或apply\(\)来调用函数时，其中的this值就是通过call\(\)或apply\(\)传入的第一个参数（在非严格模式中，null和undefined值被全局对象和转换为对象的非对象值所代替）
 
 6. 
-
-
-
-
 
 
