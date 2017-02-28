@@ -35,12 +35,14 @@
   * [1.1 基本数据类型](js/1.1.md)
   * [1.2 Null、Undefined、NAN的区别](js/1.2-nullundefinednan.md)
   * [1.3 类型转换](js/1.3.md)
-* 闭包
-* 基本语法
-* 原型与作用域
-* this
+* [2.JS对象](js/2.js.md)
+  * [2.1 数组对象](js/2.js/2.1.md)
 * ajax
 * js模块化编程
+* this
+* 闭包
+* 原型与作用域
+* 基本语法
 
 ## 前端框架
 
