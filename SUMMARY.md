@@ -38,13 +38,13 @@
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* ajax
+* [3. 严格模式](js/'use-strict'.md)
 * js模块化编程
+* ajax
 * this
 * 闭包
 * 原型与作用域
 * 基本语法
-* [3. ’use strict‘](js/'use-strict'.md)
 
 ## 前端框架
 
