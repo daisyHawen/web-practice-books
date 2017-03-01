@@ -24,7 +24,7 @@
 ## CSS部分
 
 * [1.盒模型](css/1..md)
-* 2.字体
+* [2.字体](css/2..md)
 * [3.布局之flexbox](css/3.flexbox.md)
 * [4.事件中的ClientX，offset，pageX，screenX](css/4.clientxoffsetpagexscreenx.md)
 * 5.雪碧图
@@ -53,9 +53,13 @@
 ## 前端框架
 
 * [1.说明](1..md)
-* Jquery
+* [Jquery](jquery.md)
 * Vue.js
 * React.js
+
+## 性能优化
+
+* [1.javascript性能优化](1.javascript.md)
 
 ## 设计模式
 
