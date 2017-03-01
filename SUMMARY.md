@@ -63,6 +63,8 @@
 
 ## 设计模式
 
+* [1.构造函数模式和Prototype模式](1.prototype.md)
+
 ## 构建工具
 
 * webpack
