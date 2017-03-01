@@ -32,7 +32,7 @@
 
 ## JS部分
 
-* 1.基础知识
+* [1.基础知识](js/1..md)
   * [1.1 基本数据类型](js/1.1.md)
   * [1.2 Null、Undefined、NAN的区别](js/1.2-nullundefinednan.md)
   * [1.3 类型转换](js/1.3.md)
@@ -40,6 +40,9 @@
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
 * [3. 严格模式](js/'use-strict'.md)
+* [4.javascript的一些特性](js/1.javascript.md)
+  * [4.1 单线程模式](js/1.javascript/1.1.md)
+  * [4.2 同步与异步](js/1.javascript/1.2.md)
 * js模块化编程
 * ajax
 * this
@@ -49,6 +52,7 @@
 
 ## 前端框架
 
+* [1.说明](1..md)
 * Jquery
 * Vue.js
 * React.js
