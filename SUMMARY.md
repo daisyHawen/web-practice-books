@@ -61,6 +61,8 @@
 
 * [1.概述](es6/1..md)
 * [2.let和const](es6/2.letconst.md)
+* [3.Symbol](es6/3.symbol.md)
+* [4.Set和Map数据结构](es6/4.setmap.md)
 
 ## 性能优化
 
