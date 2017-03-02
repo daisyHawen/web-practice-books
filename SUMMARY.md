@@ -64,6 +64,7 @@
 * [3.Symbol](es6/3.symbol.md)
 * [4.Set和Map数据结构](es6/4.setmap.md)
 * [5.Proxy](es6/5.proxy.md)
+* [7.reflect](es6/7.reflect.md)
 
 ## 性能优化
 
