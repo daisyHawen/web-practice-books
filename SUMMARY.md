@@ -66,6 +66,7 @@
 * [5.Proxy](es6/5.proxy.md)
 * [7.reflect](es6/7.reflect.md)
 * [8.promise对象](es6/8.promise.md)
+* [9.Iterator\(遍历器\)](es6/7.iterator\(\).md)
 
 ## 性能优化
 
