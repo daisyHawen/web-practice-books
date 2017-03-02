@@ -60,6 +60,7 @@
 ## ES6
 
 * [1.概述](es6/1..md)
+* [2.let和const](es6/2.letconst.md)
 
 ## 性能优化
 
