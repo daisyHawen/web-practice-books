@@ -73,6 +73,8 @@
 * [13.Class](es6/13.class.md)
 * [14.Class的继承](es6/14.class.md)
 * [15.Decorator修饰器](es6/15.decorator.md)
+* [16.module](es6/16.module.md)
+  * [16.1 模块化的概念](es6/16.module/16.1.md)
 
 ## 性能优化
 
