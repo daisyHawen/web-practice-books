@@ -68,6 +68,7 @@
 * [8.promise对象](es6/8.promise.md)
 * [9.Iterator\(遍历器\)](es6/7.iterator\(\).md)
 * [10.Generator 函数的语法](es6/10.generator.md)
+* [11.Generator与异步应用](es6/11.generator.md)
 
 ## 性能优化
 
