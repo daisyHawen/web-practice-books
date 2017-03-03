@@ -71,6 +71,7 @@
 * [11.Generator与异步应用](es6/11.generator.md)
 * [12.async函数](es6/12.async.md)
 * [13.Class](es6/13.class.md)
+* [14.Class的继承](es6/14.class.md)
 
 ## 性能优化
 
