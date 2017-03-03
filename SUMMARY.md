@@ -78,6 +78,7 @@
   * [16.2 严格模式](es6/16.module/16.2.md)
   * [16.3 export命令](es6/16.module/16.3-export.md)
 * [17.Module 的加载实现](es6/17.module.md)
+  * [17.1 ES6模块与CommonJS模块的差异](es6/17.module/17.1-es6commonjs.md)
 
 ## 性能优化
 
