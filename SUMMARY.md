@@ -69,6 +69,7 @@
 * [9.Iterator\(遍历器\)](es6/7.iterator\(\).md)
 * [10.Generator 函数的语法](es6/10.generator.md)
 * [11.Generator与异步应用](es6/11.generator.md)
+* [12.async函数](es6/12.async.md)
 
 ## 性能优化
 
