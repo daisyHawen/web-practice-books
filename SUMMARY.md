@@ -72,6 +72,7 @@
 * [12.async函数](es6/12.async.md)
 * [13.Class](es6/13.class.md)
 * [14.Class的继承](es6/14.class.md)
+* [15.Decorator修饰器](es6/15.decorator.md)
 
 ## 性能优化
 
