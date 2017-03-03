@@ -75,6 +75,7 @@
 * [15.Decorator修饰器](es6/15.decorator.md)
 * [16.module](es6/16.module.md)
   * [16.1 模块化的概念](es6/16.module/16.1.md)
+  * [16.2 严格模式](es6/16.module/16.2.md)
 
 ## 性能优化
 
