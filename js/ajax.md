@@ -55,3 +55,31 @@ xmlHttp.send(null)
 
 **状态码304表示请求的资源没有被修改，可以直接使用浏览器中缓存的版本**
 
+3.XHR的readyState
+
+敲重点！！！真正的异步来了。
+
+发送异步请求，可以检测XHR的readyState属性，该属性表示请求/响应过程中当前活动阶段。取值有：
+
+* 0：未初始化。尚未调用open\(\)方法
+* 1：启动。已经调用了open\(\)方法，但是没有调用send\(\)方法
+* 2：发送。已经调用了send\(\)方法，但是尚未接收到响应
+* 3：接收。已经收到部分响应数据
+* 4：完成。已经接收全部响应数据，而且已经可以在客户端使用了。
+
+同时，每当readyState由一个状态变为另一个状态，都会触发readystatechange事件。
+
+```js
+xmlHttp.onreadystatechange = function() {
+	if (xmlHttp.readyState == 4) {
+		if (xmlHttp.status >= 200 && xmlHttp.status < 300 || xmlHttp == 304) {
+			alert(xmlHttp.responseText);
+		} else {
+			alert("Request was unsuccessful:" + xhr.status);
+		}
+	}
+}
+```
+
+
+
