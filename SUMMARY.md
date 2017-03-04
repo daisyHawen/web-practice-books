@@ -44,9 +44,9 @@
 * [4.javascript的一些特性](js/1.javascript.md)
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
-* js模块化编程
-* ajax
+* [5.ajax](js/ajax.md)
 * this
+* js模块化编程
 * 闭包
 * 原型与作用域
 * 基本语法
