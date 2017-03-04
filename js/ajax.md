@@ -53,7 +53,5 @@ xmlHttp.send(null)
 * status：响应的HTTP状态码
 * statusText：HTTP状态的说明
 
-
-
-
+**状态码304表示请求的资源没有被修改，可以直接使用浏览器中缓存的版本**
 
