@@ -14,6 +14,7 @@
   * [3.3.  session Storage、local Storage和IndexedDB的区别](html/3.html5/3.3.-session-storagelocal-storageindexeddb.md)
   * 3.4 HTML5——拖放
   * 3.5 HTML5——Canvas
+  * [3.6 Canvas和SVG的区别](html/3.html5/3.6-canvassvg.md)
 * [4.语义化](html/3..md)
 * [5.view-port移动端开发（一）](html/view-port.md)
 * [6.view-port移动端开发（二）](html/view-port/6.view-port.md)
