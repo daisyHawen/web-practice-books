@@ -81,6 +81,7 @@
 * [17.Module 的加载实现](es6/17.module.md)
   * [17.1 ES6模块与CommonJS模块的差异](es6/17.module/17.1-es6commonjs.md)
 * [18.数组的扩展](es6/18..md)
+* [19.函数的扩展](es6/19..md)
 
 ## 性能优化
 
