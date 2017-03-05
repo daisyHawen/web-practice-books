@@ -40,7 +40,7 @@
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* [3. 严格模式](js/'use-strict'.md)
+* \[3. 严格模式\]\(js/'use-strict'.md\)
 * [4.javascript的一些特性](js/1.javascript.md)
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
@@ -80,6 +80,7 @@
   * [16.3 export命令](es6/16.module/16.3-export.md)
 * [17.Module 的加载实现](es6/17.module.md)
   * [17.1 ES6模块与CommonJS模块的差异](es6/17.module/17.1-es6commonjs.md)
+* [18.数组的扩展](es6/18..md)
 
 ## 性能优化
 
