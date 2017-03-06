@@ -144,4 +144,5 @@
 * [2.XSS跨站脚本攻击](web/2.xss.md)
 * [3.URL重定向—钓鱼网站](web/3.url.md)
 * [4.客户端Javascript Coookie引用](web/4.javascript-coookie.md)
+* [5.如何防范XSS攻击](web/5.xss.md)
 
