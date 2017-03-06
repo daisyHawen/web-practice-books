@@ -51,18 +51,17 @@
   * [6.2 Element对象](js/6.html-dom/6.2-element.md)
   * [6.3 Atrribute对象](js/6.html-dom/6.3-atrribute.md)
   * 6.4 Event对象
-* [this](js/this.md)
-* js模块化编程
-* 闭包
-* 原型与作用域
-* 6.HTML DOM对象
+* [7.this指针以及call、apply](js/5.thiscallapply.md)
+* [8.关于闭包](js/7..md)
+* [9.js的模块化编程](js/6.js.md)
 
 ## 前端框架
 
 * [1.说明](1..md)
-* [Jquery](jquery.md)
-* Vue.js
-* React.js
+* 2.jQuery
+* 3.React.js
+* [4.vueJS](4.vue.md)
+* 5.AngularJS
 
 ## ES6
 
@@ -96,6 +95,13 @@
 ## 设计模式
 
 * [1.构造函数模式和Prototype模式](1.prototype.md)
+* 2.单例模式
+* 3.策略模式
+* 4.代理模式
+* 5.发布-订阅模式
+* 6.命令模式
+* 7.组合模式
+* 8.迭代器模式
 
 ## 构建工具
 
@@ -118,14 +124,19 @@
 ## NodeJS
 
 * 1.同步与异步
-* 文件操作fs
-* 网络模块http
+* 2.NodeJS原生模块
+  * 2.1 fs文件操作
+  * 2.2 http网络操作
+  * 2.3 cheerio——parse网页
+  * 2.4 socket.io 实现socket通信
+* 3.快速构建工程——express模块
 
 ## 移动端的开发
 
-* zepto.js
-* React Native
-* weex
+* 1.框架
+  * 1.1 zepto.js
+  * 1.2 React Native
+  * 1.3 weex
 
 ## Web 安全
 
