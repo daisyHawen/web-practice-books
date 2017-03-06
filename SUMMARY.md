@@ -46,11 +46,16 @@
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
 * [5.ajax](js/ajax.md)
-* this
+* [6.HTML DOM对象](js/6.html-dom.md)
+  * [6.1 Document对象](js/6.html-dom/6.1-document.md)
+  * 6.2 Element对象
+  * 6.3 Atrribute对象
+  * 6.4 Event对象
+* [this](js/this.md)
 * js模块化编程
 * 闭包
 * 原型与作用域
-* 基本语法
+* 6.HTML DOM对象
 
 ## 前端框架
 
