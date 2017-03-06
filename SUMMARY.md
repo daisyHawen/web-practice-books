@@ -54,6 +54,7 @@
 * [7.this指针以及call、apply](js/5.thiscallapply.md)
 * [8.关于闭包](js/7..md)
 * [9.js的模块化编程](js/6.js.md)
+* [11.new关键字](js/11.new.md)
 
 ## 前端框架
 
@@ -61,6 +62,9 @@
 * 2.jQuery
 * 3.React.js
 * [4.vueJS](4.vue.md)
+  * 4.1 filter
+  * 4.2 自定义组件的方法
+  * 4.3 如何实现的双向绑定
 * 5.AngularJS
 
 ## ES6
