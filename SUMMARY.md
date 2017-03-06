@@ -21,6 +21,7 @@
 * [7.view-port移动端开发（三）](html/view-port/6.view-port/7.view-port.md)
 * [8.关于meta viewport的更多知识](html/view-port/6meta-viewport.md)
 * [9.对浏览器内核理解](html/9..md)
+* [10.Dom文件加载的顺序](html/10.dom.md)
 
 ## CSS部分
 
