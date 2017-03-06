@@ -54,6 +54,7 @@
 * [7.this指针以及call、apply](js/5.thiscallapply.md)
 * [8.关于闭包](js/7..md)
 * [9.js的模块化编程](js/6.js.md)
+* [10.MVC、MVP、MVVM模式](js/10.mvcmvpmvvm.md)
 * [11.new关键字](js/11.new.md)
 
 ## 前端框架
