@@ -48,7 +48,7 @@
 * [5.ajax](js/ajax.md)
 * [6.HTML DOM对象](js/6.html-dom.md)
   * [6.1 Document对象](js/6.html-dom/6.1-document.md)
-  * 6.2 Element对象
+  * [6.2 Element对象](js/6.html-dom/6.2-element.md)
   * 6.3 Atrribute对象
   * 6.4 Event对象
 * [this](js/this.md)
