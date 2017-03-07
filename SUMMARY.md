@@ -56,6 +56,8 @@
 * [9.js的模块化编程](js/6.js.md)
 * [10.MVC、MVP、MVVM模式](js/10.mvcmvpmvvm.md)
 * [11.new关键字](js/11.new.md)
+* 12.事件处理程序
+  * [12.1 HTML事件处理程序](js/12.1-html.md)
 
 ## 前端框架
 
