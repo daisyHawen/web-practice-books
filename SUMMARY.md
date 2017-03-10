@@ -41,7 +41,7 @@
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* \[3. 严格模式\]\(js/'use-strict'.md\)
+* \[\[\[\[\[3. 严格模式\]\(js/'use-strict'.md\)\]\(js/3.-%28js'use-strict'.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md29.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md2928js3.-28js'use-strict'.md2928js3.-28js'use-str.md\)
 * [4.javascript的一些特性](js/1.javascript.md)
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
@@ -60,6 +60,7 @@
   * [12.1 HTML事件处理程序](js/12.1-html.md)
   * [12.2 DOM0级事件处理程序](js/12.2-dom0.md)
   * [12.3 DOM2级事件处理程序](js/12.3-dom2.md)
+* [13.原型和继承](js/13..md)
 
 ## 前端框架
 
@@ -81,7 +82,7 @@
 * [5.Proxy](es6/5.proxy.md)
 * [7.reflect](es6/7.reflect.md)
 * [8.promise对象](es6/8.promise.md)
-* [9.Iterator\(遍历器\)](es6/7.iterator\(\).md)
+* [9.Iterator\(遍历器\)](es6/7.iterator%28%29.md)
 * [10.Generator 函数的语法](es6/10.generator.md)
 * [11.Generator与异步应用](es6/11.generator.md)
 * [12.async函数](es6/12.async.md)
