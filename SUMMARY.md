@@ -65,6 +65,7 @@
   * [13.1 ComonJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/131-comonjs.md)
   * [13.2 AMD和RequireJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/132-admhe-requirejs.md)
   * [13.3 CMD和seaJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/133-cmdhe-seajs.md)
+  * [13.4 UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/134-umd.md)
 
 ## 前端框架
 
