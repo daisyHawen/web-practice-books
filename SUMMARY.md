@@ -63,6 +63,7 @@
   * [12.3 DOM2级事件处理程序](js/12.3-dom2.md)
 * [13.模块化开发 CommonJS、AMD、CMD、UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd.md)
   * [13.1 ComonJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/131-comonjs.md)
+  * [13.2 AMD和RequireJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/132-admhe-requirejs.md)
 
 ## 前端框架
 
