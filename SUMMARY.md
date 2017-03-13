@@ -42,7 +42,7 @@
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* [3.严格模式](js/3yan-ge-mo-shi.md)
+* [3.严格模式](js/3.yan-ge-mo-shi.md)
 * [4.javascript的一些特性](js/1.javascript.md)
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
@@ -61,7 +61,8 @@
   * [12.1 HTML事件处理程序](js/12.1-html.md)
   * [12.2 DOM0级事件处理程序](js/12.2-dom0.md)
   * [12.3 DOM2级事件处理程序](js/12.3-dom2.md)
-* 3.严格模式
+* [13.模块化开发 CommonJS、AMD、CMD、UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd.md)
+  * [13.1 ComonJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/131-comonjs.md)
 
 ## 前端框架
 
