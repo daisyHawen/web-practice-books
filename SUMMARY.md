@@ -113,6 +113,7 @@
   * [3.2 使用cdn](3yahooxing-neng-you-hua-14-tiao-jun-gui/32-shi-yong-cdn.md)
   * [3.3 减少DNS查询](3yahooxing-neng-you-hua-14-tiao-jun-gui/33-jianshao-dns-cha-xun.md)
   * [3.4 避免重定向](3yahooxing-neng-you-hua-14-tiao-jun-gui/34-bi-mian-zhong-ding-xiang.md)
+  * [3.5 配置实体标签](3yahooxing-neng-you-hua-14-tiao-jun-gui/35-pei-zhi-shi-ti-biao-qian.md)
 
 ## 设计模式
 
