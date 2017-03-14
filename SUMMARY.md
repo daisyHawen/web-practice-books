@@ -31,6 +31,7 @@
 * [4.事件中的ClientX，offset，pageX，screenX](css/4.clientxoffsetpagexscreenx.md)
 * 5.雪碧图
 * 6.sass
+* [7.BFC](css/7.bfc.md)
 
 ## JS部分
 
@@ -41,7 +42,7 @@
 * [2.JS对象](js/2.js.md)
   * [2.1 数组对象](js/2.js/2.1.md)
   * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* \[\[\[\[\[3. 严格模式\]\(js/'use-strict'.md\)\]\(js/3.-%28js'use-strict'.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md29.md%29.md\)\]\(js/3.-%28js'use-strict'.md%29%28js3.-28js'use-strict'.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md29.md%29%28js3.-28js'use-strict'.md2928js3.-28js'use-strict'.md29.md2928js3.-28js'use-strict'.md2928js3.-28js'use-str.md\)
+* [3.严格模式](js/3.yan-ge-mo-shi.md)
 * [4.javascript的一些特性](js/1.javascript.md)
   * [4.1 单线程模式](js/1.javascript/1.1.md)
   * [4.2 同步与异步](js/1.javascript/1.2.md)
@@ -60,7 +61,11 @@
   * [12.1 HTML事件处理程序](js/12.1-html.md)
   * [12.2 DOM0级事件处理程序](js/12.2-dom0.md)
   * [12.3 DOM2级事件处理程序](js/12.3-dom2.md)
-* [13.原型和继承](js/13..md)
+* [13.模块化开发 CommonJS、AMD、CMD、UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd.md)
+  * [13.1 ComonJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/131-comonjs.md)
+  * [13.2 AMD和RequireJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/132-admhe-requirejs.md)
+  * [13.3 CMD和seaJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/133-cmdhe-seajs.md)
+  * [13.4 UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/134-umd.md)
 
 ## 前端框架
 
@@ -68,9 +73,9 @@
 * 2.jQuery
 * 3.React.js
 * [4.vueJS](4.vue.md)
-  * 4.1 filter
-  * 4.2 自定义组件的方法
-  * 4.3 如何实现的双向绑定
+  * [4.1 filter](4.vue/41-filter.md)
+  * [4.2 自定义组件的方法](4.vue/42-zi-ding-yi-zu-jian-de-fang-fa.md)
+  * [4.3 如何实现的双向绑定](4.vue/43-ru-he-shi-xian-de-shuang-xiang-bang-ding.md)
 * 5.AngularJS
 
 ## ES6
@@ -102,6 +107,13 @@
 ## 性能优化
 
 * [1.javascript性能优化](1.javascript.md)
+* [2.常见的性能优化方法](2..md)
+* [3.yahoo性能优化14条军规](3yahooxing-neng-you-hua-14-tiao-jun-gui.md)
+  * [3.1 添加Expire/Cache-Control头](3yahooxing-neng-you-hua-14-tiao-jun-gui/31-tian-jia-expire-cache-control-tou.md)
+  * [3.2 使用cdn](3yahooxing-neng-you-hua-14-tiao-jun-gui/32-shi-yong-cdn.md)
+  * [3.3 减少DNS查询](3yahooxing-neng-you-hua-14-tiao-jun-gui/33-jianshao-dns-cha-xun.md)
+  * [3.4 避免重定向](3yahooxing-neng-you-hua-14-tiao-jun-gui/34-bi-mian-zhong-ding-xiang.md)
+  * [3.5 配置实体标签](3yahooxing-neng-you-hua-14-tiao-jun-gui/35-pei-zhi-shi-ti-biao-qian.md)
 
 ## 设计模式
 
@@ -131,6 +143,10 @@
 * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
 * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [7.简单请求和复杂请求](chapter1/7..md)
+* 8.缓存机制
+* [9.状态码](chapter1/9zhuang-tai-ma.md)
+* [10.重定向](chapter1/10zhong-ding-xiang.md)
+* 11.归纳跨域方法
 
 ## NodeJS
 
@@ -156,4 +172,7 @@
 * [3.URL重定向—钓鱼网站](web/3.url.md)
 * [4.客户端Javascript Coookie引用](web/4.javascript-coookie.md)
 * [5.如何防范XSS攻击](web/5.xss.md)
+* [6.CSRF:冒充用户之手](web/6csrfmao-chong-yong-hu-zhi-shou.md)
+
+## 常见面试题集锦
 
