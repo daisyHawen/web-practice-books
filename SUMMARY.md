@@ -138,6 +138,9 @@
 * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
 * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [7.简单请求和复杂请求](chapter1/7..md)
+* 8.缓存机制
+* 9.状态码
+* 10.重定向
 
 ## NodeJS
 
