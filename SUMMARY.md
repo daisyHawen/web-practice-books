@@ -111,6 +111,7 @@
 * [3.yahoo性能优化14条军规](3yahooxing-neng-you-hua-14-tiao-jun-gui.md)
   * [3.1 添加Expire/Cache-Control头](3yahooxing-neng-you-hua-14-tiao-jun-gui/31-tian-jia-expire-cache-control-tou.md)
   * [3.2 使用cdn](3yahooxing-neng-you-hua-14-tiao-jun-gui/32-shi-yong-cdn.md)
+  * [3.3 减少DNS查询](3yahooxing-neng-you-hua-14-tiao-jun-gui/33-jianshao-dns-cha-xun.md)
 
 ## 设计模式
 
