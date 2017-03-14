@@ -163,6 +163,7 @@
 * [3.URL重定向—钓鱼网站](web/3.url.md)
 * [4.客户端Javascript Coookie引用](web/4.javascript-coookie.md)
 * [5.如何防范XSS攻击](web/5.xss.md)
+* [6.CSRF:冒充用户之手](web/6csrfmao-chong-yong-hu-zhi-shou.md)
 
 ## 常见面试题集锦
 
