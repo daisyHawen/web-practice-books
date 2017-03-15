@@ -145,7 +145,7 @@
 * [7.简单请求和复杂请求](chapter1/7..md)
 * [8.缓存机制](chapter1/8huan-cun-ji-zhi.md)
 * [9.状态码](chapter1/9zhuang-tai-ma.md)
-* [10.其他跨域方法](chapter1/11gui-na-kua-yu-fang-fa.md)
+* [10.跨域方法总结](chapter1/11gui-na-kua-yu-fang-fa.md)
 
 ## NodeJS
 
