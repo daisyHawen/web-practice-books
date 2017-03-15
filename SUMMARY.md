@@ -143,7 +143,7 @@
 * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
 * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [7.简单请求和复杂请求](chapter1/7..md)
-* 8.缓存机制
+* [8.缓存机制](chapter1/8huan-cun-ji-zhi.md)
 * [9.状态码](chapter1/9zhuang-tai-ma.md)
 * [10.归纳跨域方法](chapter1/11gui-na-kua-yu-fang-fa.md)
 
@@ -174,4 +174,6 @@
 * [6.CSRF:冒充用户之手](web/6csrfmao-chong-yong-hu-zhi-shou.md)
 
 ## 常见面试题集锦
+
+* 1.requireJS模块化之循环依赖
 
