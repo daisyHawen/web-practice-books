@@ -4,17 +4,17 @@
 
 同源策略是XHR的一个主要约束，它为通信设置了“相同的域，相同的端口，相同的协议”这一限制
 
-　　1.jsonp 需要目标服务器配合一个callback函数。
+1.jsonp 需要目标服务器配合一个callback函数。
 
-　　2.window.name+iframe 需要目标服务器响应window.name。
+2.window.name+iframe 需要目标服务器响应window.name。
 
-　　3.window.location.hash+iframe 同样需要目标服务器作处理。
+3.window.location.hash+iframe 同样需要目标服务器作处理。
 
-　　4.html5的 postMessage+ifrme 这个也是需要目标服务器或者说是目标页面写一个postMessage，主要侧重于前端通讯。
+4.html5的 postMessage+ifrme 这个也是需要目标服务器或者说是目标页面写一个postMessage，主要侧重于前端通讯。
 
-　　5.[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) 需要服务器设置header ：`Access-Control-Allow-Origin。`
+5.[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) 需要服务器设置header ：`Access-Control-Allow-Origin。`
 
-　　6.**nginx反向代理**这个方法一般很少有人提及，但是他可以不用目标服务器配合，不过需要你搭建一个中转nginx服务器，用于转发请求。
+6.**nginx反向代理**这个方法一般很少有人提及，但是他可以不用目标服务器配合，不过需要你搭建一个中转nginx服务器，用于转发请求。
 
 ## 1.跨域资源共享CORS
 
@@ -138,5 +138,7 @@ app.html
 
 ### 8.运用反向代理
 
+---
 
+运用ngix实现反向代理：http://www.cnblogs.com/gabrielchen/p/5066120.html
 
