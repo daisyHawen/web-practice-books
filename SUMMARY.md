@@ -66,6 +66,7 @@
   * [13.2 AMD和RequireJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/132-admhe-requirejs.md)
   * [13.3 CMD和seaJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/133-cmdhe-seajs.md)
   * [13.4 UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/134-umd.md)
+* [8.requireJS模块化之循环依赖](chapter1/8huan-cun-ji-zhi.md)
 
 ## 前端框架
 
@@ -143,9 +144,8 @@
 * [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
 * [6.跨域解决方案（CORS）](chapter1/6.cors.md)
 * [7.简单请求和复杂请求](chapter1/7..md)
-* [8.缓存机制](chapter1/8huan-cun-ji-zhi.md)
 * [9.状态码](chapter1/9zhuang-tai-ma.md)
-* [10.跨域方法总结](chapter1/11gui-na-kua-yu-fang-fa.md)
+* [8.缓存机制](chapter1/8huan-cun-ji-zhi.md)
 
 ## NodeJS
 
