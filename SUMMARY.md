@@ -1,4 +1,3 @@
-=======
 ## 介绍
 
 * [Introduction](README.md)
@@ -26,48 +25,48 @@
 
 ## CSS部分
 
-* [1.盒模型](css/1..md)
-* [2.字体](css/2..md)
-* [3.布局之flexbox](css/3.flexbox.md)
-* [4.事件中的ClientX，offset，pageX，screenX](css/4.clientxoffsetpagexscreenx.md)
-* 5.雪碧图
-* 6.sass
-* [7.BFC](css/7.bfc.md)
+* [1.盒模型](1_css/01.md)
+* [2.字体](1_css/02.md)
+* [3.布局之flexbox](1_css/03.md)
+* [4.事件中的ClientX，offset，pageX，screenX](1_css/04.md)
+* [5.雪碧图](1_css/05.md)
+* [6.sass](1_css/06.md)
+* [7.BFC](1_css/07.md)
 
 ## JS部分
 
-* [1.基础知识](js/1..md)
-  * [1.1 基本数据类型](js/1.1.md)
-  * [1.2 Null、Undefined、NAN的区别](js/1.2-nullundefinednan.md)
-  * [1.3 类型转换](js/1.3.md)
-* [2.JS对象](js/2.js.md)
-  * [2.1 数组对象](js/2.js/2.1.md)
-  * [2.2 正则RegExp对象](js/2.js/2.2-regexp.md)
-* [3.严格模式](js/3.yan-ge-mo-shi.md)
-* [4.javascript的一些特性](js/1.javascript.md)
-  * [4.1 单线程模式](js/1.javascript/1.1.md)
-  * [4.2 同步与异步](js/1.javascript/1.2.md)
-* [5.ajax](js/ajax.md)
-* [6.HTML DOM对象](js/6.html-dom.md)
-  * [6.1 Document对象](js/6.html-dom/6.1-document.md)
-  * [6.2 Element对象](js/6.html-dom/6.2-element.md)
-  * [6.3 Atrribute对象](js/6.html-dom/6.3-atrribute.md)
-  * 6.4 Event对象
-* [7.this指针以及call、apply](js/5.thiscallapply.md)
-* [8.关于闭包](js/7..md)
-* [9.js的模块化编程](js/6.js.md)
-* [10.MVC、MVP、MVVM模式](js/10.mvcmvpmvvm.md)
-* [11.new关键字](js/11.new.md)
+* [1.基础知识](2_js/01.md)
+  * [1.1 基本数据类型](2_js/01_basic/01.md)
+  * [1.2 Null、Undefined、NAN的区别](2_js/01_basic/02.md)
+  * [1.3 类型转换](2_js/01_basic/03.md)
+* [2.JS对象](2_js/02.md)
+  * [2.1 数组对象](2_js/02_object/01.md)
+  * [2.2 正则RegExp对象](2_js/02_object/02.md)
+* [3.严格模式](2_js/3.yan-ge-mo-shi.md)
+* 4.javascript的一些特性
+  * [4.1 单线程模式](2_js/04_sync/01.md)
+  * [4.2 同步与异步](2_js/04_sync/02.md)
+* [5.ajax](2_js/05_ajax/01.md)
+* 6.HTML DOM对象
+  * [6.1 Document对象](2_js/06_htmlDOM/01.md)
+  * [6.2 Element对象](2_js/06_htmlDOM/02.md)
+  * [6.3 Atrribute对象](2_js/06_htmlDOM/03.md)
+  * [6.4 Event对象](2_js/06_htmlDOM/04.md)
+* [7.this指针以及call、apply](2_js/07_this/01.md)
+* [8.关于闭包](2_js/08_closure/01.md)
+* [9.js的模块化编程](2_js/09_AMD_CMD/01.md)
+* [10.MVC、MVP、MVVM模式](2_js/010_mvc/01.md)
+* [11.new关键字](2_js/011_new/01.md)
 * 12.事件处理程序
-  * [12.1 HTML事件处理程序](js/12.1-html.md)
-  * [12.2 DOM0级事件处理程序](js/12.2-dom0.md)
-  * [12.3 DOM2级事件处理程序](js/12.3-dom2.md)
-* [13.模块化开发 CommonJS、AMD、CMD、UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd.md)
-  * [13.1 ComonJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/131-comonjs.md)
-  * [13.2 AMD和RequireJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/132-admhe-requirejs.md)
-  * [13.3 CMD和seaJS](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/133-cmdhe-seajs.md)
-  * [13.4 UMD](js/13mo-kuai-hua-kai-fa-commonjs-amd-cmd-umd/134-umd.md)
-* [8.requireJS模块化之循环依赖](chapter1/8huan-cun-ji-zhi.md)
+  * [12.1 HTML事件处理程序](2_js/012_module/01.md)
+  * [12.2 DOM0级事件处理程序](2_js/012_module/02.md)
+  * [12.3 DOM2级事件处理程序](2_js/012_module/03.md)
+* [13.模块化开发 CommonJS、AMD、CMD、UMD](2_js/013_module_00.md)
+  * [13.1 ComonJS](2_js/013_module_01.md)
+  * [13.2 AMD和RequireJS](2_js/013_module_02.md)
+  * [13.3 CMD和seaJS](2_js/013_module_03.md)
+  * [13.4 UMD](2_js/013_module_04.md)
+* [14.requireJS模块化之循环依赖](2_js/014_reuireJS/00.md)
 
 ## 前端框架
 
@@ -178,4 +177,3 @@
 
 * 1.requireJS模块化之循环依赖
 
->>>>>>> 62759394186996ee0b75bdd4bbb8d03642b4f2e1
