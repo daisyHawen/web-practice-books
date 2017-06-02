@@ -118,7 +118,7 @@
 
 ## 设计模式
 
-* [1.构造函数模式和Prototype模式](1.prototype.md)
+* [1.构造函数模式和Prototype模式](7_pattern/01_construct/00.md)
 * 2.单例模式
 * 3.策略模式
 * 4.代理模式
@@ -137,15 +137,15 @@
 
 ## HTTP部分
 
-* [1.POST和GET的区别](chapter1/postget.md)
-* [2.HTTP和HTTPS的区别](chapter1/httphttps.md)
-* [3.什么是跨域](chapter1/3..md)
-* [4.什么时候会出现跨域](chapter1/4..md)
-* [5.跨域解决方案\(src和JSONP\)](chapter1/cors.md)
-* [6.跨域解决方案（CORS）](chapter1/6.cors.md)
-* [7.简单请求和复杂请求](chapter1/7..md)
-* [8.Cache-Control与Expire](chapter1/8cache-controlyu-expire.md)
-* [9.状态码](chapter1/9zhuang-tai-ma.md)
+* [1.POST和GET的区别](9_HTTP/01.md)
+* [2.HTTP和HTTPS的区别](9_HTTP/02.md)
+* [3.什么是跨域](9_HTTP/03.md)
+* [4.什么时候会出现跨域](9_HTTP/04.md)
+* [5.跨域解决方案\(src和JSONP\)](9_HTTP/05.md)
+* [6.跨域解决方案（CORS）](9_HTTP/06.md)
+* [7.简单请求和复杂请求](9_HTTP/07.md)
+* [8.Cache-Control与Expire](9_HTTP/08.md)
+* [9.状态码](9_HTTP/09.md)
 
 ## NodeJS
 
@@ -166,12 +166,12 @@
 
 ## Web 安全
 
-* [1.Web安全概述](web/1.md)
-* [2.XSS跨站脚本攻击](web/2.xss.md)
-* [3.URL重定向—钓鱼网站](web/3.url.md)
-* [4.客户端Javascript Coookie引用](web/4.javascript-coookie.md)
-* [5.如何防范XSS攻击](web/5.xss.md)
-* [6.CSRF:冒充用户之手](web/6csrfmao-chong-yong-hu-zhi-shou.md)
+* [1.Web安全概述](12_secure/00.md)
+* [2.XSS跨站脚本攻击](12_secure/01.md)
+* [3.URL重定向—钓鱼网站](12_secure/02.md)
+* [4.客户端Javascript Coookie引用](12_secure/03.md)
+* [5.如何防范XSS攻击](12_secure/04.md)
+* [6.CSRF:冒充用户之手](12_secure/05.md)
 
 ## 常见面试题集锦
 
