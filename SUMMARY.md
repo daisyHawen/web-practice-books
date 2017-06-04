@@ -67,6 +67,9 @@
   * [13.3 CMD和seaJS](2_js/013_module_03.md)
   * [13.4 UMD](2_js/013_module_04.md)
 * [14.requireJS模块化之循环依赖](2_js/014_reuireJS/00.md)
+* [15.JS函数](2_js/15_function/00.md)
+  * [15.1 JS函数](2_js/15_function/01.md)
+
 
 ## 前端框架
 
