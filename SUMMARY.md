@@ -174,9 +174,13 @@
 * [3.URL重定向—钓鱼网站](12_secure/02.md)
 * [4.客户端Javascript Coookie引用](12_secure/03.md)
 * [5.如何防范XSS攻击](12_secure/04.md)
-* [6.CSRF:冒充用户之手](12_secure/05.md)
+* [6.CSRF:冒充用户之手](12_secure/05.md)、
+
+## 读书笔记
+
+* 1.Javascript语言精粹
+  *［1.1 函数（一）——调用](14_bookbotes/01/01.md) 
 
 ## 常见面试题集锦
-
 * 1.requireJS模块化之循环依赖
 
