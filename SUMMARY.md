@@ -184,7 +184,10 @@
   *[1.2 函数（二）——其他](14_booknotes/01/02.md)
   *[1.3 对象——方法扩展](14_booknotes/01/03.md)  
   *[1.4 函数——方法扩展](14_booknotes/01/04.md)  
-  
+
+* 1.Javascript异步编程
+  *[1.1 关于setTimeout的一个小插曲](14_booknotes/02/01.md)
+  *[1.2 异步函数的类型](14_booknotes/02/02.md)   
     
 
 ## 常见面试题集锦
