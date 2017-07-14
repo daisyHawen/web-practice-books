@@ -149,6 +149,9 @@
 * [7.简单请求和复杂请求](9_HTTP/07.md)
 * [8.Cache-Control与Expire](9_HTTP/08.md)
 * [9.状态码](9_HTTP/09.md)
+* [10.跨域解决方案（HTML5）](9_HTTP/10.md)
+
+
 
 ## NodeJS
 
@@ -187,7 +190,10 @@
 
 * 1.Javascript异步编程
   *[1.1 关于setTimeout的一个小插曲](14_booknotes/02/01.md)
-  *[1.2 异步函数的类型](14_booknotes/02/02.md)   
+  *[1.2 异步函数的类型](14_booknotes/02/02.md) 
+  *[1.3 发布者与订阅者模式](14_booknotes/02/03.md)   
+  *[1.4 ajax与promise](14_booknotes/02/04.md)   
+  
     
 
 ## 常见面试题集锦
