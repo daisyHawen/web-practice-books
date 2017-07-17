@@ -9,11 +9,10 @@
 * [3.HTML5](0_html/03_html5.md)
   * [3.1.HTML5—— 新增的元素](0_html/03_html5/01.md)
   * [3.2.HTML5——离线应用程序](0_html/03_html5/02.md)
-  * [3.3.  session Storage、local Storage和IndexedDB的区别](0_html/03_html5/03.md)
-  * 3.4 HTML5——拖放
-  * [3.6 HTML5——拖放](0_html/03_html5/04.md)
-  * 3.5 HTML5——Canvas
-  * [3.6 Canvas和SVG的区别](0_html/03_html5/05.md)
+  * [3.3.session Storage、local Storage和IndexedDB的区别](0_html/03_html5/03.md)
+  * [3.4 HTML5——拖放](0_html/03_html5/04.md)
+  * [3.5 Canvas和SVG的区别](0_html/03_html5/05.md)
+  * [3.6 HTML worker对象](0_html/03_html5/06.md)
 * [4.语义化](0_html/04_yuyihua.md)
 * [5.viewport](0_html/05_view-port.md)
   * [5.1 view-port移动端开发（一）](0_html/05_view-port/01.md)
