@@ -77,8 +77,9 @@
 * 3.React.js
 * [4.vueJS](4_frame/04_vue/00.md)
   * [4.1 filter](4_frame/04_vue/01.md)
-  * [4.2 自定义组件的方法](4_frame/04_vue/02.md)
-  * [4.3 如何实现的双向绑定](4_frame/04_vue/03.md)
+  * [4.2 关于组件](4_frame/04_vue/04.md)
+  * [4.3 自定义组件的方法](4_frame/04_vue/02.md)
+  * [4.4 如何实现的双向绑定](4_frame/04_vue/03.md)
 * 5.AngularJS
 
 ## ES6
