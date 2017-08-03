@@ -68,7 +68,9 @@
 * [14.requireJS模块化之循环依赖](2_js/014_reuireJS/00.md)
 * [15.JS函数](2_js/15_function/00.md)
   * [15.1 JS函数](2_js/15_function/01.md)
-
+* [16.高级教程]
+  * [16.1 JS对象创建](2_js/16_more/01.md)
+  * [16.2 JS对象创建](2_js/16_more/02.md)
 
 ## 前端框架
 
